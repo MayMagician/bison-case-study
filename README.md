@@ -1,3 +1,3 @@
-mirror_publications_100.csv è una parte del dataset WNFTM con solo 100 Writing NFT.
+mirror_publications_100.csv is a part of the WNFTM dataset, with only 100 Writing NFTs.
 
-Per la versione completa del dataset contattare framay909@gmail.com.
+To get the complete version of the dataset e-mail framay909@gmail.com.
