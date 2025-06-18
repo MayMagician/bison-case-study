@@ -1,0 +1,1 @@
+Playgrounds are testing notebooks in which the various implementations were tested. If you want to look at the case study with a general perspective, they can be a good way to understand what was going on in the project itself.
